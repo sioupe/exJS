@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d38a0b0-785f-44d7-8bbe-a675e759b750" name="Changes" comment="ex tp javascript premier commit">
-      <change afterPath="$PROJECT_DIR$/ex5.js" afterDir="false" />
+    <list default="true" id="2d38a0b0-785f-44d7-8bbe-a675e759b750" name="Changes" comment="ex 5 &#10;tp javascript">
+      <change afterPath="$PROJECT_DIR$/ex6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,23 +23,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sioupe"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sioupe&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sioupe/exJS.git",
-    "accountId": "b75bb092-05d7-47e0-97f2-d4b28506bf70"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sioupe/exJS.git&quot;,
+    &quot;accountId&quot;: &quot;b75bb092-05d7-47e0-97f2-d4b28506bf70&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2q1O8B2QVtLDkiVPLXDNisGCxSD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,6 +52,8 @@
     "Node.js.ex2.js.executor": "Run",
     "Node.js.ex3.js.executor": "Run",
     "Node.js.ex4.js.executor": "Run",
+    "Node.js.ex5.js.executor": "Run",
+    "Node.js.ex6.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -76,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733826452993</updated>
-      <workItem from="1733826454036" duration="3837000" />
+      <workItem from="1733826454036" duration="4662000" />
     </task>
     <task id="LOCAL-00001" summary="ex tp javascript premier commit">
       <option name="closed" value="true" />
@@ -110,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733830978858</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ex 5 &#10;tp javascript">
+      <option name="closed" value="true" />
+      <created>1733831188931</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733831188932</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +131,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ex tp javascript premier commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex tp javascript premier commit" />
+    <MESSAGE value="ex 5 &#10;tp javascript" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex 5 &#10;tp javascript" />
   </component>
 </project>
