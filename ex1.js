@@ -1,0 +1,10 @@
+const prompt = require("prompt-sync")({sigint : true})
+
+const nb1 = parseInt(prompt("un nombre please :"))
+const nb2 = parseInt(prompt("un nombre please :"))
+console.log("nb1 = " +nb1)
+console.log("nb2 = " +nb2)
+console.log("addition = "+(nb1+nb2))
+console.log("soustraction = " + (nb1-nb2))
+console.log("multiplication = " +nb1*nb2)
+console.log("division = " +nb1/nb2)
