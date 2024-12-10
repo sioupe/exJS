@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d38a0b0-785f-44d7-8bbe-a675e759b750" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex4.js" afterDir="false" />
+    <list default="true" id="2d38a0b0-785f-44d7-8bbe-a675e759b750" name="Changes" comment="ex tp javascript premier commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex1.js" beforeDir="false" afterPath="$PROJECT_DIR$/ex1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex2.js" beforeDir="false" afterPath="$PROJECT_DIR$/ex2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     "Node.js.ex3.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "E:/Diginamic/javascript/diginamic-js-24-12",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -65,11 +65,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733826452993</updated>
-      <workItem from="1733826454036" duration="2007000" />
+      <workItem from="1733826454036" duration="2950000" />
     </task>
+    <task id="LOCAL-00001" summary="ex tp javascript premier commit">
+      <option name="closed" value="true" />
+      <created>1733829292079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733829292079</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ex tp javascript premier commit">
+      <option name="closed" value="true" />
+      <created>1733829305302</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733829305302</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ex tp javascript premier commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex tp javascript premier commit" />
   </component>
 </project>
