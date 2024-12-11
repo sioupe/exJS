@@ -8,8 +8,6 @@ const remove =(produit) => {
 }
 
 const exists =(produit) => {
-
-
     return (produits.find((p) => p===produit) !== undefined)
 }
 

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d38a0b0-785f-44d7-8bbe-a675e759b750" name="Changes" comment="ex 6&#10;tp javascript">
-      <change afterPath="$PROJECT_DIR$/ex7.js" afterDir="false" />
-    </list>
+    <list default="true" id="2d38a0b0-785f-44d7-8bbe-a675e759b750" name="Changes" comment="ex tableau&#10;tp javascript" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,11 +46,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Node.js.ex1.js.executor": "Run",
+    "Node.js.ex10.js.executor": "Run",
+    "Node.js.ex11.js.executor": "Run",
     "Node.js.ex2.js.executor": "Run",
     "Node.js.ex3.js.executor": "Run",
     "Node.js.ex4.js.executor": "Run",
     "Node.js.ex5.js.executor": "Run",
     "Node.js.ex6.js.executor": "Run",
+    "Node.js.ex7.js.executor": "Run",
+    "Node.js.ex8.js.executor": "Run",
+    "Node.js.ex9.js.executor": "Run",
+    "Node.js.exTableau.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -65,6 +69,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Diginamic\tpjs" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733826452993</updated>
-      <workItem from="1733826454036" duration="5720000" />
+      <workItem from="1733826454036" duration="11659000" />
     </task>
     <task id="LOCAL-00001" summary="ex tp javascript premier commit">
       <option name="closed" value="true" />
@@ -130,7 +139,63 @@
       <option name="project" value="LOCAL" />
       <updated>1733831936558</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ex 7&#10;tp javascript">
+      <option name="closed" value="true" />
+      <created>1733836602223</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733836602223</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ex 8&#10;tp javascript">
+      <option name="closed" value="true" />
+      <created>1733837016765</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733837016765</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ex 8&#10;tp javascript">
+      <option name="closed" value="true" />
+      <created>1733837714948</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733837714948</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ex 8&#10;tp javascript">
+      <option name="closed" value="true" />
+      <created>1733839509459</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733839509459</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ex fonction&#10;tp javascript">
+      <option name="closed" value="true" />
+      <created>1733840454775</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1733840454775</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ex fonction&#10;tp javascript">
+      <option name="closed" value="true" />
+      <created>1733847935082</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1733847935082</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ex tableau&#10;tp javascript">
+      <option name="closed" value="true" />
+      <created>1733849079548</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1733849079548</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +205,10 @@
     <MESSAGE value="ex tp javascript premier commit" />
     <MESSAGE value="ex 5 &#10;tp javascript" />
     <MESSAGE value="ex 6&#10;tp javascript" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex 6&#10;tp javascript" />
+    <MESSAGE value="ex 7&#10;tp javascript" />
+    <MESSAGE value="ex 8&#10;tp javascript" />
+    <MESSAGE value="ex fonction&#10;tp javascript" />
+    <MESSAGE value="ex tableau&#10;tp javascript" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex tableau&#10;tp javascript" />
   </component>
 </project>
